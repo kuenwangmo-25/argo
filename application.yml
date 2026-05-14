@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/kuenwangmo-25/argo.git
-    targetRevision: master
+    targetRevision: main
     path: . 
   destination:
     server: https://kubernetes.default.svc
